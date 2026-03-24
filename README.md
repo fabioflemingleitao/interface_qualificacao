@@ -34,7 +34,6 @@ A análise foi realizada considerando tipologias estruturais projetadas de acord
 Observação:
 Este arquivo também está compactado em formato .rar devido ao seu tamanho e deve ser descompactado antes da visualização.
 
-====================================================================================
 Requisitos
 ====================================================================================
 Navegador atualizado (recomendado: Google Chrome ou Mozilla Firefox)
