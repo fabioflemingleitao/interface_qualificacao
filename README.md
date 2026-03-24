@@ -3,6 +3,8 @@ Título: Visualizações Interativas – Análises Estruturais e Sísmicas
 Este repositório contém três arquivos em formato .html com visualizações interativas relacionadas a análises estruturais e sísmicas. 
 Como são arquivos locais, eles devem ser baixados e abertos em um navegador de internet (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.) para correta visualização.
 
+A visualização também pode ser usada via navegadores de Smartphones.
+
 # Observação importante
 Os arquivos foram desenvolvidos para visualização local. 
 Portanto, eles não serão renderizados corretamente diretamente na visualização do GitHub, 
