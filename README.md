@@ -13,7 +13,7 @@ sendo necessário o download para visualização completa das funcionalidades in
 2 - Caso o arquivo esteja compactado (.rar), descompacte utilizando o WinRAR ou software similar.
 3 - Abra o arquivo .html extraído em um navegador (Chrome, Firefox, Edge, etc.).
 
-====================================================================================
+
 Arquivos disponíveis:
 ====================================================================================
 
